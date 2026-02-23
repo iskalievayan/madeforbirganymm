@@ -1169,7 +1169,8 @@ document.addEventListener('DOMContentLoaded', function () {
                 startWebsite();
             }
         }, 1500);
-});
+    } 
+}); 
 // Tạo UI loading
 function createLoadingUI() {
     const loadingOverlay = document.createElement('div');
