@@ -16,7 +16,7 @@ let settings = {
     pages: [
         // --- Lembar 1 (data-page="0") ---
         { 
-            image: './image/theend.JPG', // Menggantikan bolsw2.png (Index 0)
+            image: './image/theend.jpg', // Menggantikan bolsw2.png (Index 0)
         },
         { 
             image: './image/photos/b1.JPG', // Menggantikan lhvuck.png (Index 1)
